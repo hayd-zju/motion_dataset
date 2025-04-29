@@ -1,0 +1,1 @@
+Add the small, dark, blurred object from Image B to the corresponding position in Image A.

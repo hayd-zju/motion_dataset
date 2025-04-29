@@ -1,0 +1,1 @@
+Edit Image A to show the person holding an open book, with a slightly different head pose and slightly more open eyes, and add the blurred object from Image B to the bottom left.

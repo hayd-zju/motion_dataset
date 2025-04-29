@@ -1,0 +1,1 @@
+Edit the hands in Image A to be holding an open book, matching the pose in Image B.
