@@ -1,0 +1,1 @@
+Adjust the person's arm and torso pose so that their elbows are resting on a surface, matching the posture in the second image.

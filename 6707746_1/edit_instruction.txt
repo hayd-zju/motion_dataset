@@ -1,0 +1,1 @@
+Change the eye state from open to closed and adjust the upper body pose so the elbows are resting on a surface.
