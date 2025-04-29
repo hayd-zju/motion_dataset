@@ -1,0 +1,1 @@
+Change the head orientation and gaze direction to look upwards and slightly left.
