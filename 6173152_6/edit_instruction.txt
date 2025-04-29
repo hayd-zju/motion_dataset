@@ -1,0 +1,1 @@
+Transform the person's pose by lowering the arms and extending the hands forward in a gesturing motion, leaning and rotating the torso slightly, and adjusting the head pose and facial expression to match the second image.
