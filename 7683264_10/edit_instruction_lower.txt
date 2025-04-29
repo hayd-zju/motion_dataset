@@ -1,0 +1,1 @@
+Unable to generate an editing instruction as the input images are black and contain no visual information about the lower body pose.
