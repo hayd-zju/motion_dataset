@@ -1,0 +1,1 @@
+Transform the pose by lowering the arms, changing hand gestures (adding a pen), widening the stance with bent knees, and adjusting the face pose with a wider mouth.
