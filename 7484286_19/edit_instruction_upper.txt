@@ -1,0 +1,1 @@
+Adjust the hand position and gesture to hold the object vertically and use the right index finger to interact with it.

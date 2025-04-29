@@ -1,0 +1,1 @@
+Change the person's stance to standing, lift the head slightly, and adjust the hand pose to hold the object vertically and interact with it.
