@@ -1,0 +1,1 @@
+Adjust the person's pose so the torso faces forward and is more upright.

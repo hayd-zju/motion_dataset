@@ -1,0 +1,1 @@
+Change the pose from a crouching pose to lying on the side with extended legs.
