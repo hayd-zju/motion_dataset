@@ -1,0 +1,1 @@
+Adjust the arm pose in image A by bending the elbows more and bringing the forearms/hands upwards and inwards, closer together, to match the pose in image B.
