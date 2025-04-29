@@ -1,0 +1,1 @@
+Change the person's right arm and hand pose to be extended forward and slightly lower with an open, reaching gesture, removing the object from the hand.
