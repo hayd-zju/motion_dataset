@@ -1,0 +1,1 @@
+Change the object being held from a flat white object to a white teacup, adjusting the hand pose accordingly.
