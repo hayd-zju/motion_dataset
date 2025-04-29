@@ -1,0 +1,1 @@
+Transform the subject's pose to a lunge, adjust the head orientation and facial expression, and reposition the microphone.
