@@ -1,0 +1,1 @@
+Adjust the head pose to face forward, direct the gaze towards the camera, and close the mouth.

@@ -1,0 +1,1 @@
+Change the pose to walking forward and looking at the camera, lowering the arms.
