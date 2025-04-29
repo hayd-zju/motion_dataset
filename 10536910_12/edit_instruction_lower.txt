@@ -1,0 +1,1 @@
+Change the leg position from the wide stance in image A to the stance in image B where the left leg is straight and the right leg is bent backward behind the left leg, resting on the toe.
