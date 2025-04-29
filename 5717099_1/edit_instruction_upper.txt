@@ -1,0 +1,1 @@
+Adjust the pose of the right arm and hand holding the phone and subtly change the upper body posture to match the target image.
