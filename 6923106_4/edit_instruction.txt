@@ -1,0 +1,1 @@
+Transform the person's pose to be upright with arms raised above the head, head tilted up and to the right, and with a wider smile.
