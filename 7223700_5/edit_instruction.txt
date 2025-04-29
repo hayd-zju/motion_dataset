@@ -1,0 +1,1 @@
+Change the person's pose to raise arms holding an umbrella horizontally, bend the right leg backwards, lean back, and update the facial expression.
