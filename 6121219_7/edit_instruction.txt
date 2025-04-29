@@ -1,0 +1,1 @@
+Transform the person's pose from standing to a wide-stance squat with the head tilted downwards.
