@@ -1,0 +1,1 @@
+Change the leg crossing from right over left to left over right and adjust foot positions to match the target.
