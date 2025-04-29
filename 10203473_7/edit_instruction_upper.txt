@@ -1,0 +1,1 @@
+Change the pose of the right arm from extended with thumbs up to bent near the torso with a gripping hand.
