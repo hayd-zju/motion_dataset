@@ -1,0 +1,1 @@
+Adjust the torso orientation to face more directly forward and slightly reposition the crossed arms to match the target pose.
