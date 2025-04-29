@@ -1,0 +1,1 @@
+Make the image entirely black, removing the visible leg.
