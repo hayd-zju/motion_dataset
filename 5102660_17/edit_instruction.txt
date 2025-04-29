@@ -1,0 +1,1 @@
+Rotate the body and head away from the camera and change the hand positions.
