@@ -1,0 +1,1 @@
+Adjust the body pose by rotating the torso forward, straightening the right arm, straightening legs, and narrowing the stance to match the second image.
