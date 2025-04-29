@@ -1,0 +1,1 @@
+Adjust the pose to a slight stepping motion with torso rotation, and change the face to a subtle smile looking slightly up and right.
