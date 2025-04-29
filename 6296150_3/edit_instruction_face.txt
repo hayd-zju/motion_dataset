@@ -1,0 +1,1 @@
+Change the head pose to look strongly downwards, showing the top and back of the head.
