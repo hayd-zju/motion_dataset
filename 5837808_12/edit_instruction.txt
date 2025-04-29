@@ -1,0 +1,1 @@
+Transform the person's pose from arms raised overhead to arms raised to the sides holding weights, adjust the head pose, and change the lower body to a wider, deeper squat with feet turned outwards.
