@@ -1,0 +1,1 @@
+Change the person's pose from standing with legs together to stepping forward with the left leg and extending the right leg backward.
