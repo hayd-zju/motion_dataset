@@ -1,0 +1,1 @@
+Make the person's pose slightly more upright and change the right hand gesture to hold a yellow object.
