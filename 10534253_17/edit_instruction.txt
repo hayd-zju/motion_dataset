@@ -1,0 +1,1 @@
+Change gaze to look slightly upwards and adjust hand/arm pose to a resting position.

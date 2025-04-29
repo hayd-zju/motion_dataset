@@ -1,0 +1,1 @@
+Change the person's hand and arm pose to match the resting position depicted in Image B.
