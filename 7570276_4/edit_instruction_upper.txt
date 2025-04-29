@@ -1,0 +1,1 @@
+Change the pose to match Image B, with the person facing forward, arms bent outwards, and hands open with palms down.

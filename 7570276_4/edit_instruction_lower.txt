@@ -1,0 +1,1 @@
+Adjust the pose in Image A to match the wider, static standing pose in Image B, with both legs slightly bent and feet side-by-side.

@@ -1,0 +1,1 @@
+Adjust head pose to face forward, shift gaze downwards, and close the mouth.
