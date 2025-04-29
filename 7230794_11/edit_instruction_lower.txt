@@ -1,0 +1,1 @@
+Cannot generate an instruction to transform the person's lower body pose in Image A to match Image B, as Image B does not contain visible information about the lower body or pose.
