@@ -1,0 +1,1 @@
+Adjust the head pose to be tilted upwards and rotated towards the right profile, and direct the gaze upwards.
