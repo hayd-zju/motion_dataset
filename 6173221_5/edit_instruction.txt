@@ -1,0 +1,1 @@
+Change head orientation and gaze to look up and to the left, and change facial expression to appear as if speaking or listening.
