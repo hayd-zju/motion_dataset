@@ -1,0 +1,1 @@
+Change the person's left arm to be extended forward and slightly downwards, holding an object, matching the pose in the second image.
