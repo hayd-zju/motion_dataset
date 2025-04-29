@@ -1,0 +1,1 @@
+Transform the person in image A to be jumping in mid-air with both feet off the ground, bending their legs slightly at the knees, similar to the pose in image B.
