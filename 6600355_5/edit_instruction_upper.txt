@@ -1,0 +1,1 @@
+Reposition the right arm and hand to be extended to the right side and resting on a surface, matching the pose in Image B.
