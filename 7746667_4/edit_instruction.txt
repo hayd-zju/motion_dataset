@@ -1,0 +1,1 @@
+Change pose to head tilted left looking forward with right arm behind head, and torso rotated left.

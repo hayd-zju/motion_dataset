@@ -1,0 +1,1 @@
+Change the pose to look towards the camera with open eyes and a neutral expression.
