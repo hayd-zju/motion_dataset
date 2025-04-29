@@ -1,0 +1,1 @@
+Reposition both arms and change the hand gestures to match the pose in the second image.
