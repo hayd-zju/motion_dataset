@@ -1,0 +1,1 @@
+Rotate the person 180 degrees to face away from the camera and adjust the leg stance to be wider.
