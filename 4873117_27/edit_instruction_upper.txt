@@ -1,0 +1,1 @@
+Lower and extend the person's right arm forward onto the table, matching the pose in the second image.
