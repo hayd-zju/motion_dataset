@@ -1,0 +1,1 @@
+Change the pose of the left arm so it is raised and the hand is closed near the face, holding a small object.
