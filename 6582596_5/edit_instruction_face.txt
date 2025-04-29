@@ -1,0 +1,1 @@
+Keep the face orientation, gaze, and expression the same as in the first image.
