@@ -1,0 +1,1 @@
+Change the hand gesture from interlocked fingers to the right hand resting on the left hand, and add a pen in the right hand as shown in Image B. Implement instructed lower body pose changes (widen stance, slightly bend knees) which are not visible.

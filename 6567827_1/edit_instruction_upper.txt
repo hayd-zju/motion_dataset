@@ -1,0 +1,1 @@
+Adjust the hand gesture in the first image to match the configuration of the clasped hands in the second image.
