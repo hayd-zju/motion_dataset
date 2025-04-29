@@ -1,0 +1,1 @@
+Move the person's right hand to be visible near the laptop's trackpad.
