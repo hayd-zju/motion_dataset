@@ -1,0 +1,1 @@
+Transform the person's pose from ironing to standing upright, holding the iron near the chest, and looking at the camera.
