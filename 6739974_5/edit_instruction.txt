@@ -1,0 +1,1 @@
+Transform the pose to a jump off the box, raising arms and tilting the head upwards.
