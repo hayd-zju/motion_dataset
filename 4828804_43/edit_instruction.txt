@@ -1,0 +1,1 @@
+Change the person's head orientation to look up and to the right, remove the phone from their left hand, and reposition the left hand to reach towards the glass.
