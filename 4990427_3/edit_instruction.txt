@@ -1,0 +1,1 @@
+Rotate the body to face forward, bending the torso significantly forward and rotating it left, while adjusting arm positions and head orientation.
