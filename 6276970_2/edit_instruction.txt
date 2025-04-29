@@ -1,0 +1,1 @@
+Transform the pose into a selfie pose by raising the right arm holding a phone, adjusting the head pose to look at the phone, adding a smile, and slightly bending the knees more.
