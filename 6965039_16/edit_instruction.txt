@@ -1,0 +1,1 @@
+Change the person's pose from dynamic (arms spread) to standing upright and holding the black object in front, adjusting the face to be forward-facing with a wider smile and altering the lower body stance.
