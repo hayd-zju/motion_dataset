@@ -1,0 +1,1 @@
+Transform the person's pose to be sitting, facing right in profile, with a neutral expression, left hand near the cup, and separated legs.

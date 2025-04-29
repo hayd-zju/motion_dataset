@@ -1,0 +1,1 @@
+Change head pose to profile facing right, change gaze to look straight right, and change expression to neutral with slightly parted lips.
