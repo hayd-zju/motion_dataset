@@ -1,0 +1,1 @@
+Rotate the body forward, extend the right arm forward, and level the head pose.
