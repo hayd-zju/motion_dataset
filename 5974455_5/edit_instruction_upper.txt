@@ -1,0 +1,1 @@
+Adjust the pose to match image B, specifically repositioning the left arm and hand to hold an object.
