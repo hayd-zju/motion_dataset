@@ -1,0 +1,1 @@
+Change the gaze so the person is looking slightly up and towards the camera.
