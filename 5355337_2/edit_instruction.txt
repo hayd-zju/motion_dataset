@@ -1,0 +1,1 @@
+Change head pose to look up and away from the phone.
