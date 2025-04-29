@@ -1,0 +1,1 @@
+Change the person's pose in Image A so their hands are raised higher towards the shoulders and gripping the collar of the shirt, matching the pose in Image B.
