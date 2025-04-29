@@ -1,0 +1,1 @@
+Change gaze direction to look downwards and change facial expression to neutral.

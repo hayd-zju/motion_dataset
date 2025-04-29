@@ -1,0 +1,1 @@
+Transform the person from a dynamic walking stance with upward gaze to a static standing pose with downward gaze, straightening legs, bringing them closer, changing facial expression to neutral, and adjusting clothing details.
