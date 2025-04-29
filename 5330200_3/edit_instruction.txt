@@ -1,0 +1,1 @@
+Change pose to speaking/gesturing: lift head, change gaze, and add hand gesture.
