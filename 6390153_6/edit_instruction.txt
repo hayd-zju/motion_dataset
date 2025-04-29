@@ -1,0 +1,1 @@
+Adjust the person's pose to match Image B, including lifting the head, rotating the torso, and widening the lower body stance.

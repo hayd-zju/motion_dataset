@@ -1,0 +1,1 @@
+Adjust the head pose to look forward and slightly upward, and direct the gaze towards the viewer.
