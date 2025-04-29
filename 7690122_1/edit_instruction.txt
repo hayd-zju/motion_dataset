@@ -1,0 +1,1 @@
+Transform the pose by extending the right arm forward with the hand open, adjusting the facial expression, and applying motion blur and elongation to the right lower leg and foot.

@@ -1,0 +1,1 @@
+Change the arm and hand position to match the pose in the second image by extending the arms forward and opening the hands.
