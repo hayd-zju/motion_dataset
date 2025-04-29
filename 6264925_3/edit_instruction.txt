@@ -1,0 +1,1 @@
+Change the head pose and gaze to look left and down, and adjust the right hand to hold a utensil and be slightly raised.
