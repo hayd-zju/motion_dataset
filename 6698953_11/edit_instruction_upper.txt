@@ -1,0 +1,1 @@
+Maintain the current arm positions, hand gestures, and torso orientation as they already match the target image.
