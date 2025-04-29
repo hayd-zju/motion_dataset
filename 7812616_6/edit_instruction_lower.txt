@@ -1,0 +1,1 @@
+Cannot generate an editing instruction due to the lack of visual data in the provided images.
