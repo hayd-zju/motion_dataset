@@ -1,0 +1,1 @@
+Transform the person's pose to match image B by changing the leg position to bent and wide, moving the left hand to the laptop, and adjusting the facial expression.
