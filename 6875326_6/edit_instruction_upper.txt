@@ -1,0 +1,1 @@
+Change the right hand gesture from open to closed/curled.
