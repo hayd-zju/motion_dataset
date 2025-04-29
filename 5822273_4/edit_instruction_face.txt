@@ -1,0 +1,1 @@
+Make the head more upright, turn it towards the camera, change the gaze to look directly at the camera, and change the expression to neutral.
