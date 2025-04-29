@@ -1,0 +1,1 @@
+Adjust head orientation and gaze to look forward with a slight right tilt, and change facial expression to neutral.
