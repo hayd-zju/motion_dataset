@@ -1,0 +1,1 @@
+Rotate the torso to the left and extend the arms forward to match the pose in image B.
