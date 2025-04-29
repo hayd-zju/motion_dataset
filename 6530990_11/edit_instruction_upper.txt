@@ -1,0 +1,1 @@
+Change the hands in image A to match image B, specifically by having the right hand hold an object and the left hand rest on the right hand.
