@@ -1,0 +1,1 @@
+Change the action from pushing the mop away to pulling it towards the body, adjusting the pose accordingly.
