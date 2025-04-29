@@ -1,0 +1,1 @@
+Adjust head pose to be more upright and slightly more frontal, and shift gaze upwards and forward.
