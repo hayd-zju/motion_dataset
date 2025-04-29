@@ -1,0 +1,1 @@
+Adjust the head pose to be less tilted and the gaze to look directly at the camera, with a more neutral expression.
