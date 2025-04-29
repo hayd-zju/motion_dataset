@@ -1,0 +1,1 @@
+Change the head pose to be upright and facing forward, and update the facial expression to be neutral with a direct gaze.
