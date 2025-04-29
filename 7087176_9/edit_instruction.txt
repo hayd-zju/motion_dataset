@@ -1,0 +1,1 @@
+Change pose to look forward and left with mouth slightly open.
