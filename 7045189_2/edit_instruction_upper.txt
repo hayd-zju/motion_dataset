@@ -1,0 +1,1 @@
+Transform the pose to standing upright with hands clasped in front of the chest.
