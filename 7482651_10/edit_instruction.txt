@@ -1,0 +1,1 @@
+Rotate the person's body 90 degrees to the left, turning their back towards the camera, and position their hands to interact with the box on the table.
