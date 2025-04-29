@@ -1,0 +1,1 @@
+Slightly rotate the torso and suit jacket to match the angle in the second image.
