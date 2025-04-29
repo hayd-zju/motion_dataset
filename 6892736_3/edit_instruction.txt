@@ -1,0 +1,1 @@
+Adjust pose to a lower crouch, tilt head downwards, change right hand to grip, and close mouth.
