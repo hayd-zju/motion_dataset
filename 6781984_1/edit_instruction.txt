@@ -1,0 +1,1 @@
+Change hand pose from right hand on left wrist to left hand supporting cheek.
