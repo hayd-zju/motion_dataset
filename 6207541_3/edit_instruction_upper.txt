@@ -1,0 +1,1 @@
+Adjust the person's upper body pose, including arm positions and torso orientation, to match the target image.
