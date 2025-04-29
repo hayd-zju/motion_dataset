@@ -1,0 +1,1 @@
+Transform the pose by uncrossing and extending the legs, changing the arm and hand pose to be clasped together holding the notebook, and adjusting the face pose and expression.
