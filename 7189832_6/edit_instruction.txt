@@ -1,0 +1,1 @@
+Slightly shift the person's position on the couch and adjust the head pose and gaze.
