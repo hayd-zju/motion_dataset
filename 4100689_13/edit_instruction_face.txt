@@ -1,0 +1,1 @@
+Make the person look slightly downwards and turn the head slightly towards the camera.
