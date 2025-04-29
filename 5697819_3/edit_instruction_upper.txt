@@ -1,0 +1,1 @@
+Change the pose of the arms and hands to match the second image, specifically repositioning the right arm horizontally and changing the left hand into a fist.
