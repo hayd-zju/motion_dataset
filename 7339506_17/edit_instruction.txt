@@ -1,0 +1,1 @@
+Adjust head pose (less tilted, turned towards camera), lower right arm and hand, and adjust lower body (left leg step forward, bent knee).
