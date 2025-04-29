@@ -1,0 +1,1 @@
+Change the head pose and gaze to look slightly down, and change the expression to a neutral mouth.
