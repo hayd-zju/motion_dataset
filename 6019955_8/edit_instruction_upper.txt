@@ -1,0 +1,1 @@
+Crop the bottom of the image to remove the legs, matching the second image.
