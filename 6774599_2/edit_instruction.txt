@@ -1,0 +1,1 @@
+Turn the person's head to the left into a profile view and close their mouth.
