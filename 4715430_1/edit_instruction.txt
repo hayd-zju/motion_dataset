@@ -1,0 +1,1 @@
+Lower the head pose and adjust gaze downwards, rolling the eyes upwards slightly.
