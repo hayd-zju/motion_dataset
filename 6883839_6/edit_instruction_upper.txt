@@ -1,0 +1,1 @@
+Change the object in the person's right hand from a pen to a microphone and adjust the left hand gesture so all fingers are together instead of the index finger being extended.

@@ -1,0 +1,1 @@
+Transform the person's pose and state to match Image B by changing the object in the right hand to a microphone, adjusting the left hand gesture, closing the mouth, adjusting the head pose, and bending the left leg.
