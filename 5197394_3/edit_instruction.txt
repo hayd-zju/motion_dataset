@@ -1,0 +1,1 @@
+Change the person's pose from writing with eyes open to pausing with eyes closed and adjusting hand positions.
