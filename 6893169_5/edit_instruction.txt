@@ -1,0 +1,1 @@
+Transform the pose from Image A to Image B by lowering and bending the arms in front of the face, changing the hand gesture, turning the head and gaze to the right, and widening the stance.
