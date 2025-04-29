@@ -1,0 +1,1 @@
+Slightly adjust the head pose to be less tilted down and left, and slightly open the eyes.
