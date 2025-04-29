@@ -1,0 +1,1 @@
+Change the hand gesture from open palms to closed hands.
