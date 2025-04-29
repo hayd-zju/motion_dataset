@@ -1,0 +1,1 @@
+Change the pose so that the person holds a rectangular object with the left hand extended to the left, with the right arm lowered to the side, instead of holding a small object with both hands in front.

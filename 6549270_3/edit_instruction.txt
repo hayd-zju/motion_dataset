@@ -1,0 +1,1 @@
+Change the person's pose from holding an object with both hands in front to holding a book with the left hand extended to the left and the right arm down, while also tilting the head further down and turning it more to the right.
