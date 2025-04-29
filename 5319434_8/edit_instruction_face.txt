@@ -1,0 +1,1 @@
+Slightly adjust the head pose to match Face B's very similar orientation.
