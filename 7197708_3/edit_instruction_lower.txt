@@ -1,0 +1,1 @@
+Transform the image to be predominantly black, removing the person shown in Image A, to visually match Image B.
