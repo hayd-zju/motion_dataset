@@ -1,0 +1,1 @@
+Change the object being held from a flat object to a large box, adjusting the arm and hand pose to grip the box.
