@@ -1,0 +1,1 @@
+Reverse the arm crossing from left over right to right over left, and adjust the position and gesture of the hands.
