@@ -1,0 +1,1 @@
+Change the person's pose from profile to facing forward, adjust the head to look at the camera, and reposition the arms to hang naturally by the sides.
