@@ -1,0 +1,1 @@
+Transform the body pose, leg position, arm position, and facial expression to match Image B.
