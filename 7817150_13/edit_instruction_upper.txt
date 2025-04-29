@@ -1,0 +1,1 @@
+Replace the flat black object in the right hand with a rolled white object, adjusting the hand gesture.
