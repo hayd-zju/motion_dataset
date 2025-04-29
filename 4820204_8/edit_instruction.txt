@@ -1,0 +1,1 @@
+Change the pose of the left hand from holding beans near the face to scooping beans from the machine basin.
