@@ -1,0 +1,1 @@
+Rotate the person's upper body to face backwards and adjust the position of the hands behind the head.
