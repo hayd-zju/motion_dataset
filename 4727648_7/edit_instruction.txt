@@ -1,0 +1,1 @@
+Change pose to have arms at sides, right leg forward with weight shifted forward, and head tilted down looking right.
