@@ -1,0 +1,1 @@
+Adjust head pose to look down, slightly rotate torso towards the viewer, and change lower body pose to a left leg forward lunge.

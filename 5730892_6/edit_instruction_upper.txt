@@ -1,0 +1,1 @@
+Slightly rotate the torso of the person in the first image towards the viewer to match the angle in the second image.
