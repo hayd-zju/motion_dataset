@@ -1,0 +1,1 @@
+Make the person hold a spherical object with both hands in front of the chest.
