@@ -1,0 +1,1 @@
+Adjust the pose to raise and bend the right arm with an open hand gesture, and subtly shift the torso orientation.

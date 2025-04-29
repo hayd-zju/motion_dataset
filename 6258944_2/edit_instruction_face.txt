@@ -1,0 +1,1 @@
+Adjust the head pose and gaze direction to look slightly downwards.
