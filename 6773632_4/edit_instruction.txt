@@ -1,0 +1,1 @@
+Change the person's pose from looking down at the laptop to looking left, with adjusted arm and torso position.
