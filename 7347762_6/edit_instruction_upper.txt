@@ -1,0 +1,1 @@
+Change the left arm and hand position so the fingers of the left hand are interacting with the object being held, as seen in Image B.

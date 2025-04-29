@@ -1,0 +1,1 @@
+Adjust the leg pose, make the left hand interact with the object, and add a smile.
