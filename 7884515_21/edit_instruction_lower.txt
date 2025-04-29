@@ -1,0 +1,1 @@
+Change the person's pose from standing with straight legs (Image A) to the bent-legged pose shown in Image B.
