@@ -1,0 +1,1 @@
+Slightly raise the head pose and gaze direction, replace the object in the left hand with glasses, and adjust the left hand position accordingly.
