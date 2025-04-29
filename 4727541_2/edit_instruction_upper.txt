@@ -1,0 +1,1 @@
+Change the arm and hand pose so that the hands are joined together in front of the chest, forming a heart shape.

@@ -1,0 +1,1 @@
+Transform the person's pose to a wide squat, join their hands in front of their chest, turn their head slightly left, and close their mouth.
