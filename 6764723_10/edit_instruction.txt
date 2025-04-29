@@ -1,0 +1,1 @@
+Change the person's pose to match the second image, including repositioning arms, hands, and legs, and adjusting the facial expression.
