@@ -1,0 +1,1 @@
+Change the gaze to look directly at the viewer, adjust the head pose to be more straight on, and give the person a slightly more alert expression.

@@ -1,0 +1,1 @@
+Transform the pose to have the person looking directly at the viewer with an alert expression and arms crossed on the table.
