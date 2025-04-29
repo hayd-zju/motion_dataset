@@ -1,0 +1,1 @@
+Adjust the pose in the first image so the legs are bent and pulled towards the body, matching the pose in the second image.
