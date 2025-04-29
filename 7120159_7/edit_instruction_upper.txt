@@ -1,0 +1,1 @@
+Rotate the person's torso to the left and adjust arm positions to match the pose in the second image.
