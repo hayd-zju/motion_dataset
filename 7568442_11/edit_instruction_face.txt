@@ -1,0 +1,1 @@
+Align the head orientation, gaze direction, and facial expression precisely with Face B.

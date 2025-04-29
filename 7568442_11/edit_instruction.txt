@@ -1,0 +1,1 @@
+Change the person's hand pose so both hands are gripping the object on the table.
