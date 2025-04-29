@@ -1,0 +1,1 @@
+Transform the person's pose from holding the gift box at their waist to raising it above their head, obscuring their face.
