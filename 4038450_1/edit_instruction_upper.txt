@@ -1,0 +1,1 @@
+Adjust the right arm and hand pose in Image A so the hand is lowered and rests against the face, matching the pose in Image B.
