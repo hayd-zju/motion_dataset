@@ -1,0 +1,1 @@
+Transform the person's pose by turning the head to a right profile view, extending the arms forward over the table, widening the leg stance, bending the knees more deeply, and rotating the feet outwards.
