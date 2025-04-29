@@ -1,0 +1,1 @@
+Change the right hand gesture from holding the object with fingers partially open to holding the object within a closed fist.
