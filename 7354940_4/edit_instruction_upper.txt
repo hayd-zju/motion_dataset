@@ -1,0 +1,1 @@
+Change the pose of the right hand in Image A from open and splayed to closed and relaxed, matching Image B.
