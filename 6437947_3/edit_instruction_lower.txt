@@ -1,0 +1,1 @@
+No editing is required as the lower body pose is already matched between Image A and Image B.
