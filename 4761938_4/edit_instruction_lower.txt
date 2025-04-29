@@ -1,0 +1,1 @@
+Slightly increase the bend of the visible knee to match the pose in the second image.
