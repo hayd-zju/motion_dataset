@@ -1,0 +1,1 @@
+Transform the pose from holding a bar overhead to standing with arms down by the sides.
