@@ -1,0 +1,1 @@
+Change the pose to shift weight, raise arms, tilt torso to the left, and tilt head downwards with eyes closed.
