@@ -1,0 +1,1 @@
+Adjust the upper body and head pose to match the pose in Image B.
