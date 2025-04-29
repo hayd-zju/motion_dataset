@@ -1,0 +1,1 @@
+Adjust the pose so the left hand holds a flat object horizontally near the torso and the right arm is raised with an open hand gesture.
