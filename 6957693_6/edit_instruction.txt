@@ -1,0 +1,1 @@
+Transform the person's pose and expression to match the second image, specifically by changing the facial expression, moving the left arm holding the jar closer to the chest, and adjusting the lower body pose to flatten the front of the jeans and level the waistline.
