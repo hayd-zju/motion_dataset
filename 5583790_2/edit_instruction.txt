@@ -1,0 +1,1 @@
+Transform the pose to be standing with legs together, arms crossed over the chest, and the face looking forward with a slight downward tilt and closed lips.
