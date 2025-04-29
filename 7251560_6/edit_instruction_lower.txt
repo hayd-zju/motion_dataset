@@ -1,0 +1,1 @@
+Change the lower body pose from walking forward to standing with feet together.
