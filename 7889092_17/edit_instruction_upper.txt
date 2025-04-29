@@ -1,0 +1,1 @@
+Change the pose, including the right hand gesture and torso orientation, to match the target image.
