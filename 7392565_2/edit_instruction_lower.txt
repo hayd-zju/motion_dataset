@@ -1,0 +1,1 @@
+No person's lower body is visible in the source image (Lower Body A), so no transformation is possible or required to match the target image (Lower Body B), which also shows no person's lower body.
