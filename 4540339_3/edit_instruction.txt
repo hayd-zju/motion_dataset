@@ -1,0 +1,1 @@
+Transform the person's pose from standing with raised fisted arms to walking with extended open-palmed arms.
