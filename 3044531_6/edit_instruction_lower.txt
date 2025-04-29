@@ -1,0 +1,1 @@
+Change the static standing pose to a walking pose with the body leaning forward.
