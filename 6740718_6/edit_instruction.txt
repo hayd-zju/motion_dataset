@@ -1,0 +1,1 @@
+Change the pose from drinking to holding the bottle away from the face, altering the head pose and adding an object to the left hand.
