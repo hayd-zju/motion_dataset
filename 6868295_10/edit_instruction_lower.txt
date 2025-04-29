@@ -1,0 +1,1 @@
+Change the leg crossing pose to match the pose in the second image, switching the leg on top and lowering the feet.
