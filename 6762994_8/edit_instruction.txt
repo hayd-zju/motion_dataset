@@ -1,0 +1,1 @@
+Mirror the action of applying the face massage tool to the opposite side of the face, adjusting head and torso orientation accordingly.
