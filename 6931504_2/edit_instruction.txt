@@ -1,0 +1,1 @@
+Transform the pose from shaking hands to sitting, holding a coffee cup, and gesturing while looking downwards with an open mouth.
