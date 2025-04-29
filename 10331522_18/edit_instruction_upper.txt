@@ -1,0 +1,1 @@
+Adjust the upper body pose to match the second image, including bending and raising the arms and rotating the torso.
