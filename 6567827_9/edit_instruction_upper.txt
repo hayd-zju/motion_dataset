@@ -1,0 +1,1 @@
+Adjust the pose of the right hand holding the pen from writing to holding it still on the clipboard.
