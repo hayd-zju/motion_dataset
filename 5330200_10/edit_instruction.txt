@@ -1,0 +1,1 @@
+Shift the person's gaze and head direction to look towards their left.
