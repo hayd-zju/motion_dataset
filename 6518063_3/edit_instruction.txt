@@ -1,0 +1,1 @@
+Change pose to hold one box in each hand separately and look at the camera.
