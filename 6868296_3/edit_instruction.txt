@@ -1,0 +1,1 @@
+Change the person's pose, including head tilt, eye closure, facial expression, arm position, and leg position, to match the pose in Image B.
