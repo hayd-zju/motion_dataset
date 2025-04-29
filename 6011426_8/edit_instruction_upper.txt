@@ -1,0 +1,1 @@
+Adjust the torso and shoulder pose to match the second image.
