@@ -1,0 +1,1 @@
+Change pose from gesturing with right hand to resting arm on desk.
