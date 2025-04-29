@@ -1,0 +1,1 @@
+Change the person's pose from a dynamic, staggered stance to a static, upright stance with legs closer together.

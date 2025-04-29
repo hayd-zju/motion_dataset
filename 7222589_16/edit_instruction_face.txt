@@ -1,0 +1,1 @@
+Adjust head pose to be more upright and frontal with a slight right tilt, change gaze to look directly at the camera, and close the lips.
