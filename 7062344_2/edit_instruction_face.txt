@@ -1,0 +1,1 @@
+Adjust Face A's head orientation, gaze direction, and facial expression to match Face B.
