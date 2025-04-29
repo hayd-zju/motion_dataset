@@ -1,0 +1,1 @@
+The lower body is not visible in the source or target images, so no pose analysis or editing instruction for the lower body can be provided.

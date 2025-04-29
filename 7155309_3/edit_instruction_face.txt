@@ -1,0 +1,1 @@
+Change head pose to look upwards and slightly to the left, and change gaze to look upwards.
