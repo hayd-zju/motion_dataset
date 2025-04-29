@@ -1,0 +1,1 @@
+Adjust the arm and hand poses to match the configuration in Upper Body B.

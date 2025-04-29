@@ -1,0 +1,1 @@
+Shift the gaze direction to look more directly forward.
