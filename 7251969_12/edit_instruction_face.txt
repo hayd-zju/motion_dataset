@@ -1,0 +1,1 @@
+Turn the head and gaze towards the camera to match the pose and visibility in Face B.

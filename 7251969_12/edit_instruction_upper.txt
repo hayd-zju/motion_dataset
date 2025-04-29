@@ -1,0 +1,1 @@
+Lower and rotate the right hand holding the flower to match the position and orientation in the second image.
