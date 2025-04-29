@@ -1,0 +1,1 @@
+Adjust the position and angle of the left forearm and hand to match the position in Image B.

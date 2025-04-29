@@ -1,0 +1,1 @@
+Slightly turn the head forward from the current right profile.
