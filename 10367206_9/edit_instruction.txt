@@ -1,0 +1,1 @@
+Change the pose from reaching towards the tree to walking with arms down at the sides and legs in a wide stride, adjusting the head orientation.
