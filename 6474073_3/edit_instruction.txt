@@ -1,0 +1,1 @@
+Transform the person from a standing, upward-spraying pose to a squatting, forward-spraying pose.
