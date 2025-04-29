@@ -1,0 +1,1 @@
+Change the person's lower body pose from a crouched position to a standing position with extended legs.

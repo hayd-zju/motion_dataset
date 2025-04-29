@@ -1,0 +1,1 @@
+Change the pose from a crouched position to a standing position with extended arms forward.
