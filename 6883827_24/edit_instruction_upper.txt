@@ -1,0 +1,1 @@
+Adjust the pose to match the second image, specifically changing the angle of the left arm and rotating the torso slightly forward.
