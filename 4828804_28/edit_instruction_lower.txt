@@ -1,0 +1,1 @@
+Cannot provide an editing instruction as both source and target images are black with no visible content.
