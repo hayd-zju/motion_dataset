@@ -1,0 +1,1 @@
+Adjust the pose of the left hand to be closer to the body with fingers more closed, matching the position and gesture in the second image.

@@ -1,0 +1,1 @@
+Change gaze to look forward and move left hand to the laptop.
