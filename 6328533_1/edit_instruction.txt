@@ -1,0 +1,1 @@
+Adjust head orientation and gaze to look forward and change expression to a slight smile.
