@@ -1,0 +1,1 @@
+Transform the pose to have the person form a heart shape with their hands above their head, adjusting the head orientation and left leg position.

@@ -1,0 +1,1 @@
+Adjust head pose to be more level and slightly turned left, and change gaze direction to look forward.
