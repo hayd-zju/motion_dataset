@@ -1,0 +1,1 @@
+No editing is required to match Face A to Face B based on head pose, gaze, or expression, as they are already the same.
