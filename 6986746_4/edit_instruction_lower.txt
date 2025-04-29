@@ -1,0 +1,1 @@
+Lower body pose analysis is not possible as the relevant parts of the lower body are not visible in the images.
