@@ -1,0 +1,1 @@
+Adjust the arm pose to be bent upwards, add a glass object in the hand, and modify the torso orientation to match image B.

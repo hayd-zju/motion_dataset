@@ -1,0 +1,1 @@
+Transform the body pose from a lunge to standing on the box with one leg raised, raise the arms and add dumbbells, and tilt the head upwards.
