@@ -1,0 +1,1 @@
+Change the facial expression from talking with an open mouth to neutral with a closed mouth, and slightly adjust the head orientation.

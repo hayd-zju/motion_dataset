@@ -1,0 +1,1 @@
+Adjust the pose of the right hand to be slightly higher with fingers closer together, matching Image B's pose, and remove the object from the hand.
