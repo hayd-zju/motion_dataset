@@ -1,0 +1,1 @@
+Change pose to mirror the stance on the opposite leg, adjust torso upright and face camera.
