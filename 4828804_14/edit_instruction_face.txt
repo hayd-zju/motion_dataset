@@ -1,0 +1,1 @@
+Adjust the head orientation, gaze direction, and facial expression to match the second image.
