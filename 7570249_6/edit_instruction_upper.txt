@@ -1,0 +1,1 @@
+Change the pose from arms raised to arms crossed in front of the chest.
