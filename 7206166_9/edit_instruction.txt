@@ -1,0 +1,1 @@
+Change the person's pose from sitting and examining objects to standing and walking away from the camera.
