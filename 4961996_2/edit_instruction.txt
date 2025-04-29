@@ -1,0 +1,1 @@
+Transform the pose to show the person actively writing in the notebook.
