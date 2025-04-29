@@ -1,0 +1,1 @@
+Adjust the person's head pose and gaze to match the target image, shifting the gaze more forward and lifting the head slightly.
