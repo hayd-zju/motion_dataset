@@ -1,0 +1,1 @@
+Adjust head pose to be more upright and less turned to the right, and change facial expression to have a closed mouth.
