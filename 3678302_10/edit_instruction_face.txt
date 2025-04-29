@@ -1,0 +1,1 @@
+Change head pose to look slightly down and left, and adjust the smile to be slightly less wide.
