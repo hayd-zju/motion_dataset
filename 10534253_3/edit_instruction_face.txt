@@ -1,0 +1,1 @@
+Keep the head pose, gaze, and facial expression as they are already the same as the target image.
