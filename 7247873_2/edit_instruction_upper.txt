@@ -1,0 +1,1 @@
+Change the position and gesture of the right arm and hand, and change the object held and the position of the left arm.
