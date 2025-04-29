@@ -1,0 +1,1 @@
+Transform the person's pose from reclined with legs together to seated with knees wide apart, adjust head tilt, and reposition the right hand on the book.
