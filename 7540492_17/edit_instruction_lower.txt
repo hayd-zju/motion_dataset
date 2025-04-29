@@ -1,0 +1,1 @@
+Adjust the lower body pose from Image A to match the stance and leg position shown in Image B.

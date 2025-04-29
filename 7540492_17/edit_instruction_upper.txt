@@ -1,0 +1,1 @@
+Replace the object held in the hands in the first image with the object held in the hands in the second image.
