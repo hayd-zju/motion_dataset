@@ -1,0 +1,1 @@
+Remove the person's lower body from Image A.
