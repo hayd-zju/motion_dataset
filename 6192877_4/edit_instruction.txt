@@ -1,0 +1,1 @@
+Change head pose and gaze to look forward at the camera, adjust hand position on the face, and modify facial expression.
