@@ -1,0 +1,1 @@
+Change the gaze direction from looking down to looking forward and adjust the hands to position one on the laptop and the other nearby.
