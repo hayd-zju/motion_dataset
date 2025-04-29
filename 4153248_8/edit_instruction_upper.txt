@@ -1,0 +1,1 @@
+Change the person's pose from upright/reclined with a pillow across the chest to forward-leaning kneeling with the head resting on the pillow.
