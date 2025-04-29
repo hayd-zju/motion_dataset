@@ -1,0 +1,1 @@
+Transform the pose from a kick to a running stance.

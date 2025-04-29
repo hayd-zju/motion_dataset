@@ -1,0 +1,1 @@
+Transform the pose from a leaning forward, arms-raised-high posture to an upright boxing guard stance.

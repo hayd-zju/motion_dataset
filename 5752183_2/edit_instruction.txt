@@ -1,0 +1,1 @@
+Transform the person's pose from a kick to a dynamic running stance with a boxing guard, head tilted down, and mouth closed.
