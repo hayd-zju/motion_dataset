@@ -1,0 +1,1 @@
+Change the person's head orientation and gaze to look forward at the camera and add a slight smile.
