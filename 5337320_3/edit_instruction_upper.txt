@@ -1,0 +1,1 @@
+Maintain the existing upper body pose as it matches the target image.
