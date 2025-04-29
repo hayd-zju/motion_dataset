@@ -1,0 +1,1 @@
+Slightly rotate the head and upper body towards the viewer's right.
