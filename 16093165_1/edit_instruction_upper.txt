@@ -1,0 +1,1 @@
+Change the upper body pose to match the pose in the second image.
