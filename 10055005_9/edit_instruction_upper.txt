@@ -1,0 +1,1 @@
+Modify the pose of the arms and change the hand gestures in the first image to match the position and state shown in the second image.
