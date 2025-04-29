@@ -1,0 +1,1 @@
+Adjust head pose and gaze to look directly at the camera.

@@ -1,0 +1,1 @@
+Adjust head pose and gaze to look directly at the camera, move the left arm closer to the body, and slightly rotate the lower body to the right.
