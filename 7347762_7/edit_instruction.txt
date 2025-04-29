@@ -1,0 +1,1 @@
+Make the person walk forward and look to the left.
