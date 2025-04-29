@@ -1,0 +1,1 @@
+Image B does not provide a clear lower body pose to match from Image A.
