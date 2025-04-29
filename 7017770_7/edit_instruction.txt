@@ -1,0 +1,1 @@
+Transform the person's pose to have a more frontal head pose with a broader smile, hands clasped together on the chest, and the right leg moved forward.
