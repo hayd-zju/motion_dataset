@@ -1,0 +1,1 @@
+Adjust the person's left arm position and hand gesture to match the pose in image B, specifically bending the arm and extending the index finger upwards.
