@@ -1,0 +1,1 @@
+Adjust the arm poses to match the second image.
