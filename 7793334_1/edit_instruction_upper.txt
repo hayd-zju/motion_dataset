@@ -1,0 +1,1 @@
+Adjust the pose of the person in image A to match image B, specifically extending the right arm straight out to the side and repositioning the left arm.
