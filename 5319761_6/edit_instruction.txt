@@ -1,0 +1,1 @@
+Transform the pose from the extended to the contracted position of a seated cable row.
