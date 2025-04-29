@@ -1,0 +1,1 @@
+Transform the pose to a forward block stance with left arm extended and head looking down.

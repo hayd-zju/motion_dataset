@@ -1,0 +1,1 @@
+Transform the pose to match Upper Body B, changing the arm positions so the left arm is extended forward and the right arm is bent near the waist, and adjust the torso to be upright.
