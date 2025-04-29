@@ -1,0 +1,1 @@
+Change the walking pose to a static standing pose, bending the right arm, rotating the torso forward, and tilting the head back.
