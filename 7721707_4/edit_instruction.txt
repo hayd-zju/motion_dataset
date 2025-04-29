@@ -1,0 +1,1 @@
+Slightly adjust head tilt to be less sideways and shift gaze downwards.
