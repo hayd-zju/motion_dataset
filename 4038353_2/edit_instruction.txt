@@ -1,0 +1,1 @@
+Change the person's head pose from looking down at the candles to looking straight forward at the viewer.
