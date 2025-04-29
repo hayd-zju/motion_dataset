@@ -1,0 +1,1 @@
+Change the facial expression from neutral/open mouth to a smiling expression with teeth.
