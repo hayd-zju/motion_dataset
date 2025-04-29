@@ -1,0 +1,1 @@
+Slightly rotate the torso away from the viewer and reposition the arms and hands to hold the ukulele higher and further to the right.
