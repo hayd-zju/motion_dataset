@@ -1,0 +1,1 @@
+Change the object in the person's left hand from a notebook to a phone and adjust the left hand and arm position accordingly.
