@@ -1,0 +1,1 @@
+Make the person look downwards and to the left.
