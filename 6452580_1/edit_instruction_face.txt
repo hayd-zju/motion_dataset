@@ -1,0 +1,1 @@
+Rotate the head slightly to the right and shift it downwards and to the right.
