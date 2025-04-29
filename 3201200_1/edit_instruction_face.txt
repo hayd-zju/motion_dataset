@@ -1,0 +1,1 @@
+Shift the gaze direction slightly to the left.
