@@ -1,0 +1,1 @@
+Change the person's right arm pose from gesturing to resting on the notebook and adjust the head pose to look away.
