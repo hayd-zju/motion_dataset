@@ -1,0 +1,1 @@
+Rotate the person to face the left side in a profile view and change the arm pose to arms crossed in front of the chest.
