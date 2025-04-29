@@ -1,0 +1,1 @@
+Change the walking stride to a standing pose with legs together.

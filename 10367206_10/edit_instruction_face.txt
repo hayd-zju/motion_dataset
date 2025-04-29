@@ -1,0 +1,1 @@
+Adjust the position and rotation of the object to match the lower position and slightly different orientation of the object in the second image.
