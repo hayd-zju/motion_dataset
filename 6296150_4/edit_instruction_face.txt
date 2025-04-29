@@ -1,0 +1,1 @@
+Adjust the head's size, position, and rotation.
