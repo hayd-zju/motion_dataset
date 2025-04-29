@@ -1,0 +1,1 @@
+Slightly adjust the head orientation to be more upright.
