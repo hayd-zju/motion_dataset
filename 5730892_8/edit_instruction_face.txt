@@ -1,0 +1,1 @@
+Slightly adjust head pose to be less tilted down and more turned towards the viewer's right.
