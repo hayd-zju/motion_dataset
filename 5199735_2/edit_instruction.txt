@@ -1,0 +1,1 @@
+Adjust the person's pose by lowering the arms and book, opening the eyes and changing the head and leg position to match the target image.
