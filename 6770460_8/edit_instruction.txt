@@ -1,0 +1,1 @@
+Change the person's pose from sitting upright looking forward to leaning forward and looking downwards.
