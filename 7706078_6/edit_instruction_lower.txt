@@ -1,0 +1,1 @@
+Reposition the right leg to be slightly more extended forward to match the kneeling pose in the target image.
