@@ -1,0 +1,1 @@
+Slightly rotate the torso and change the right hand from holding an object to an open gesture dropping it.
