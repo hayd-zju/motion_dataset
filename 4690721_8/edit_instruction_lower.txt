@@ -1,0 +1,1 @@
+Transform the pose to a walking stance with the left leg forward and right leg back.
