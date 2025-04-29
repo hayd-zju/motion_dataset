@@ -1,0 +1,1 @@
+Adjust the person's head to face forward, change the gaze to look at the camera, and update the facial expression to appear as if speaking.
