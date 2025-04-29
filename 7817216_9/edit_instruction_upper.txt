@@ -1,0 +1,1 @@
+Rotate the person's torso to face more to the right and reposition the left arm to hold the object horizontally across the front.

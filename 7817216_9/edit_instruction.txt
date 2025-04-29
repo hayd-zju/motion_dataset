@@ -1,0 +1,1 @@
+Transform the person from a walking pose to a stepping stance, rotate the torso to face right, and change the object position to be held horizontally across the front.

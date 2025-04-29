@@ -1,0 +1,1 @@
+Adjust the pose from a walking stride to a stance where the right leg is bent and elevated, similar to stepping onto a surface.
