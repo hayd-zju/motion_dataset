@@ -1,0 +1,1 @@
+No editing is needed as the head orientation, gaze direction, and facial expression in Face A already match Face B.
