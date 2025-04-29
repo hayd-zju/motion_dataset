@@ -1,0 +1,1 @@
+Change the arm and hand pose from a single raised open hand to both hands clasped together in front of the chest.
