@@ -1,0 +1,1 @@
+Slightly adjust the upper body pose to match the subtle difference in torso orientation of the person in the second image.
