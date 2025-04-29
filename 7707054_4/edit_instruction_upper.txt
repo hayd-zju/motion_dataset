@@ -1,0 +1,1 @@
+Adjust the pose of the upper body to match image B.
