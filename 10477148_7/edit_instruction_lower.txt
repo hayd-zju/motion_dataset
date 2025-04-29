@@ -1,0 +1,1 @@
+Change the leg position to have the left leg forward and the right leg back, as if taking a step.
