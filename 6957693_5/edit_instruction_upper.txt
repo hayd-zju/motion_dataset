@@ -1,0 +1,1 @@
+Adjust the arm and hand positions to match the pose in Image B, replacing the items held in Image A with the objects shown in Image B.
