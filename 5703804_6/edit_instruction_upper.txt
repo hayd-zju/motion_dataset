@@ -1,0 +1,1 @@
+Change the right hand gesture to an open hand and remove the object it is holding.
