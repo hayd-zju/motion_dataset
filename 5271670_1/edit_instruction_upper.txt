@@ -1,0 +1,1 @@
+Adjust the person's pose to hold the object lower and further away, with the left hand supporting it and the right hand pointing towards the object's screen.
