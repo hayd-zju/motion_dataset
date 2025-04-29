@@ -1,0 +1,1 @@
+Change the gaze so the eyes are looking down and slightly to the right instead of down and slightly to the left.
