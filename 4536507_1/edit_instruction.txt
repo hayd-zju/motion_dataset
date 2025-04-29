@@ -1,0 +1,1 @@
+Transform the seated pose to include extended, elevated legs and a leaned-back torso.
