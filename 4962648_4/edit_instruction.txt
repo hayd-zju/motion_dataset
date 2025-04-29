@@ -1,0 +1,1 @@
+Add a pen to the right hand and change the right hand's pose to be writing on the tablet.
