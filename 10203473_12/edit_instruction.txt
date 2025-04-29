@@ -1,0 +1,1 @@
+Change the head orientation to look left, shift gaze to the left, and alter the facial expression from smiling to neutral.
