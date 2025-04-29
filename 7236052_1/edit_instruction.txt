@@ -1,0 +1,1 @@
+Transform the pose to have the person facing forward with the left arm raised, the left leg stepped forward and bent, and a surprised expression looking at the camera.
