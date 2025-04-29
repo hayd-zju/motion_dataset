@@ -1,0 +1,1 @@
+Adjust the position of the person's right arm and hand to match the pose in the second image, specifically positioning the right elbow slightly further back on the desk and the right hand slightly higher and further back relative to the head.
