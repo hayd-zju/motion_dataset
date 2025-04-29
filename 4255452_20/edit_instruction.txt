@@ -1,0 +1,1 @@
+Rotate the head slightly to the right and change the gaze direction to look towards the right.
