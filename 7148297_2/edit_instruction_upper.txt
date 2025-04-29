@@ -1,0 +1,1 @@
+Change the person's sitting posture to be more upright and match the leg positioning of the target image.

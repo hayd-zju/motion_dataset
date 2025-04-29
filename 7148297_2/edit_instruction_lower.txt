@@ -1,0 +1,1 @@
+Change the pose of the person in the first image to match the leg positioning and seated/kneeling posture shown in the second image.
