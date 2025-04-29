@@ -1,0 +1,1 @@
+Adjust the torso and arm pose to be more upright and refine the arm position in front of the body to match Image B.
