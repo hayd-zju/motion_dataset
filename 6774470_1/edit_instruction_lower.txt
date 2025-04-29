@@ -1,0 +1,1 @@
+Change the lower body pose in the first image to match the pose shown in the second image.
