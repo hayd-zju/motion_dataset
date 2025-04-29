@@ -1,0 +1,1 @@
+Change the head pose and arm position to look down and rest hands lower, removing the flower.
