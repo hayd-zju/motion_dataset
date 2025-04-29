@@ -1,0 +1,1 @@
+Change the pose from kneeling with arms raised to standing with arms extended to the sides, torso rotated, and one leg extended backward.

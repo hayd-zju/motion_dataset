@@ -1,0 +1,1 @@
+Change the pose to match the second image, including the visible element below the head and adjusting the head angle.
