@@ -1,0 +1,1 @@
+Adjust the person's pose to a dynamic running stance looking towards the camera.
