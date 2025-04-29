@@ -1,0 +1,1 @@
+Rotate the person's body and head to face right and lower the right hand, removing the object.
