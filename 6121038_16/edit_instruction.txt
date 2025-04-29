@@ -1,0 +1,1 @@
+Adjust head pose to look directly at the camera and slightly straighten the torso.
