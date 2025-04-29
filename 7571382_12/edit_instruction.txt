@@ -1,0 +1,1 @@
+Change pose from pointing to open arm pose with both arms extended outwards.
