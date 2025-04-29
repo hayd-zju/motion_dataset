@@ -1,0 +1,1 @@
+Adjust the head pose and gaze to be less turned to the side and less tilted upwards, matching Face B.
