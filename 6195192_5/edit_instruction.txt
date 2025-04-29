@@ -1,0 +1,1 @@
+Transform the pose to be leaning forward more while actively mopping, bending the torso and arms.
