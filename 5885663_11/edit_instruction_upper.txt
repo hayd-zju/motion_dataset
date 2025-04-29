@@ -1,0 +1,1 @@
+Adjust the pose of the arms and hands to match the raised and slightly closed hand position shown in the target image.
