@@ -1,0 +1,1 @@
+Add a dotted texture to the blue sphere in the first image to match the second image.

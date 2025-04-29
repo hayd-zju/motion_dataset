@@ -1,0 +1,1 @@
+Rotate the torso slightly to the left, lean back slightly, slightly raise the left arm, and change the blue ball's texture to dotted.
