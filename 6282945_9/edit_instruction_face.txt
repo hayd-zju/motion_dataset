@@ -1,0 +1,1 @@
+No significant changes are needed as the head orientation, gaze, and expression are similar between the two images.
