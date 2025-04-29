@@ -1,0 +1,1 @@
+Adjust the person's head pose and expression, rotate the torso, lower and straighten the arms, and crop the lower body adding a green mark.
