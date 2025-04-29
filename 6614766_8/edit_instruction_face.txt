@@ -1,0 +1,1 @@
+Adjust the pose and expression in Face A to precisely match the pose and expression in Face B.
