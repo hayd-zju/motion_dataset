@@ -1,0 +1,1 @@
+Change the person's arm pose from raised above the head to raised and spread wider to the sides, matching the pose in image B.

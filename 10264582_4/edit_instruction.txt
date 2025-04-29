@@ -1,0 +1,1 @@
+Change the person's pose to match Image B, including spreading the arms wider, changing the leg stance to left leg forward and bent, and tilting the head slightly upwards with a slightly parted mouth.
