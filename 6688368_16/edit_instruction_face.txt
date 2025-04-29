@@ -1,0 +1,1 @@
+Match the head orientation, gaze direction, and facial expression to those of Face B.
