@@ -1,0 +1,1 @@
+Change the person's head pose and expression, and alter the hand positions and objects held to match the target image.

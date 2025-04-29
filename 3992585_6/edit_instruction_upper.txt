@@ -1,0 +1,1 @@
+Change the hand pose and object held to match the target image.
