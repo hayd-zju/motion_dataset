@@ -1,0 +1,1 @@
+Adjust the pose of the person in Image A to have a wider stance and bent knees, matching the stance and leg position in Image B.
