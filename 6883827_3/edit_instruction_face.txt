@@ -1,0 +1,1 @@
+Change the head to a left-facing profile pose with gaze forward and remove the hands covering the face.
