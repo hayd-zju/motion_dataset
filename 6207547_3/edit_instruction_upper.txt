@@ -1,0 +1,1 @@
+Change the pose of both arms and hands to match the pose in Image B, specifically raising the right arm with an open hand and lowering the left arm.
