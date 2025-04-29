@@ -1,0 +1,1 @@
+Change the person's pose from facing away with a raised arm to facing towards the camera with both hands together holding an object.
