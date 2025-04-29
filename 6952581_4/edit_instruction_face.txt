@@ -1,0 +1,1 @@
+Slightly adjust the head orientation and gaze direction to match the pose in the target image.
