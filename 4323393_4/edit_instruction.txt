@@ -1,0 +1,1 @@
+Change the leg position to extend the left leg straight forward and the right leg back, and rotate the torso to face more towards the camera.
