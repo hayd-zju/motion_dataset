@@ -1,0 +1,1 @@
+Change head pose to be more upright, adjust gaze to look forward/up, and make the facial expression neutral.
