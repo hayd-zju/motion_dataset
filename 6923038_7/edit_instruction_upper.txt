@@ -1,0 +1,1 @@
+Change the pose of the person in the first image to match the second image by lowering and repositioning the arms (left hand on hip, right hand near neck) and tying the jacket in the front.
