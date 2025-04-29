@@ -1,0 +1,1 @@
+Transform the pose by straightening and joining the legs, raising the arms overhead, and tilting the head downwards.
