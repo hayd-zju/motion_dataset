@@ -1,0 +1,1 @@
+Change the hand gesture from an 'OK' sign to an open hand with extended fingers.
