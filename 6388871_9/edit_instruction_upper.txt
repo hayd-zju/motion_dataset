@@ -1,0 +1,1 @@
+Change the pose of the right hand from gripping to open and adjust the right arm position to match the target image.
