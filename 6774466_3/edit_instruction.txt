@@ -1,0 +1,1 @@
+Change the person's head pose and gaze to look up and to the left, and adjust their upper body pose.
