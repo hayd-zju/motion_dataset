@@ -1,0 +1,1 @@
+Change the head pose to be more upright and facing forward, open the eyes and change the gaze direction to look directly at the camera, and adopt a neutral facial expression.

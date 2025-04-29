@@ -1,0 +1,1 @@
+Adjust the head pose and gaze to look at the camera, make the left hand visible and resting, and slightly widen the leg stance.
