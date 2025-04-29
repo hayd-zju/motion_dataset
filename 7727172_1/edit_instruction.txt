@@ -1,0 +1,1 @@
+Transform the pose from a static stance to a dynamic dancing pose with arms raised and legs slightly bent.
