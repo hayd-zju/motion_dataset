@@ -1,0 +1,1 @@
+Transform the pose to face forward, extend the right arm, lift the right leg, and change the facial expression to look directly at the viewer with an open mouth.
