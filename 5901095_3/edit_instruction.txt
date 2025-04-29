@@ -1,0 +1,1 @@
+Rotate the person's torso and head to the left, away from the camera.
