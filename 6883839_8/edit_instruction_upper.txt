@@ -1,0 +1,1 @@
+Change the right hand to a thumbs-up gesture holding an object and adjust the left hand to hold the object as well.
