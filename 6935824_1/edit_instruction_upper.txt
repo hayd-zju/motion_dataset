@@ -1,0 +1,1 @@
+The pose in the first image matches the pose in the second image. No pose adjustment is required.
