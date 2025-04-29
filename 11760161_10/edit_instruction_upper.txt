@@ -1,0 +1,1 @@
+Adjust the pose of the left arm and hand to be lowered and closer to the body, matching the position in Image B.
