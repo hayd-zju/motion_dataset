@@ -1,0 +1,1 @@
+Adjust the head to look directly at the camera.
