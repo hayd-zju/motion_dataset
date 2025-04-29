@@ -1,0 +1,1 @@
+Adjust the angle and rotation of the right arm to match the position in the second image.
