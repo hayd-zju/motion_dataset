@@ -1,0 +1,1 @@
+Change the gaze direction to look down and to the left, and make the facial expression slightly more relaxed.
