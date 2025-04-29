@@ -1,0 +1,1 @@
+Slightly lower the forearms and adjust the angle of the arms resting on the hips to match the pose in the target image.
