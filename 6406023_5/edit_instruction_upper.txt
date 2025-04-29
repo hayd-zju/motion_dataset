@@ -1,0 +1,1 @@
+Adjust the person's pose to hold the object centered in front of the torso with an open right hand and a slight left torso rotation.

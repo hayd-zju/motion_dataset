@@ -1,0 +1,1 @@
+Change the pose from walking upstairs to standing still, centering the objects held in front of the body and looking forward.
