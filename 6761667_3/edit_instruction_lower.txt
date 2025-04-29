@@ -1,0 +1,1 @@
+It is not possible to generate an editing instruction to transform the pose in Image A to match Image B, as Image B does not provide sufficient visual information about the lower body pose.
