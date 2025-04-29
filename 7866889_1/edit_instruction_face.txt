@@ -1,0 +1,1 @@
+Change head pose to look slightly more to the right and less tilted, adjust gaze to look downwards and to the right, and slightly close the mouth.
