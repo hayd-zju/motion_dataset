@@ -1,0 +1,1 @@
+Lower the head and change gaze to look down at the tablet, close the mouth, and adjust hand pose for tablet interaction.
