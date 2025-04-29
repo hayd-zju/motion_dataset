@@ -1,0 +1,1 @@
+Compress the upper body vertically and expand it horizontally to match the wider and shorter shape in Image B.
