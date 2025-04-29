@@ -1,0 +1,1 @@
+Adjust the head pose and gaze to be frontal, looking directly at the camera, with a relaxed neutral expression.
