@@ -1,0 +1,1 @@
+Add the visible hand from Image B to Image A in the corresponding position.
