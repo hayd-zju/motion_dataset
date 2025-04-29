@@ -1,0 +1,1 @@
+Adjust the pose to match the second image, including raising the left arm and clenching the hand into a fist, slightly repositioning the right arm, and adjusting the torso orientation.
