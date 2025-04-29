@@ -1,0 +1,1 @@
+Change arm pose to crossed behind back and adjust head orientation.
