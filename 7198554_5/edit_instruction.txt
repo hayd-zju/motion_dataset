@@ -1,0 +1,1 @@
+Transform the full body pose to have arms raised above the head with hands clasped behind the head, the right leg forward and bent, and adjust the face to look slightly back and upwards with a closed mouth.
