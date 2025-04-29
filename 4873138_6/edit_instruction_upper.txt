@@ -1,0 +1,1 @@
+Adjust the position and angle of the left arm and hand to match the pose in image B.
