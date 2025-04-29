@@ -1,0 +1,1 @@
+Adjust the torso's rotation and curvature to match the second image.
