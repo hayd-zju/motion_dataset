@@ -1,0 +1,1 @@
+Transform the lower body pose from Image A to match Image B by crossing the left leg over the right leg and changing the footwear to match Image B.
