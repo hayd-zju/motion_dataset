@@ -1,0 +1,1 @@
+Change the arm and hand pose from holding the left forearm to clasped hands holding an object at the waist.
