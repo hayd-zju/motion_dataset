@@ -1,0 +1,1 @@
+Change pose from standing selfie to walking forward while holding the swing.
