@@ -1,0 +1,1 @@
+Change the person's pose from sitting to standing, rotate the body and head to the right, and adjust the arms to point at the chart.
