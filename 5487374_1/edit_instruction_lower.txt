@@ -1,0 +1,1 @@
+Adjust the rotation of the leg in Image A to be more vertical, matching the pose in Image B.
