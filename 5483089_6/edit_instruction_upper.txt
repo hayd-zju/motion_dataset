@@ -1,0 +1,1 @@
+Change the left hand from an open gesture to a closed, gripping gesture.

@@ -1,0 +1,1 @@
+Adjust head pose to be upright and look forward, and change the left hand gesture to a closed grip.
