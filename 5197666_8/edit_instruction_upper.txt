@@ -1,0 +1,1 @@
+Adjust the pose of the right arm and hand to bring the object held slightly higher towards the mouth.
