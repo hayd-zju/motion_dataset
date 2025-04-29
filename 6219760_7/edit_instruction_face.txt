@@ -1,0 +1,1 @@
+Match the head pose and facial expression to the second image, including closing the eyes and changing the smile to a relaxed, closed-mouth expression.
