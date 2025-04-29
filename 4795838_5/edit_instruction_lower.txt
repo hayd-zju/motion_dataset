@@ -1,0 +1,1 @@
+Add a belt and an attached object to the person's waist area.
