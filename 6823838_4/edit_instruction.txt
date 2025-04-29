@@ -1,0 +1,1 @@
+Adjust the gaze direction to look more directly down.
