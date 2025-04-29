@@ -1,0 +1,1 @@
+Adjust gaze and facial expression, and replace the object in the right hand.
