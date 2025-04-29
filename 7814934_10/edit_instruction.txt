@@ -1,0 +1,1 @@
+Transform the pose by rotating the body to the left and moving the hands from behind the head to cover the face and eyes.
