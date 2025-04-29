@@ -1,0 +1,1 @@
+Change the facial expression from a smile with visible teeth to a neutral expression with a closed mouth, and adjust the head orientation to be more upright.
