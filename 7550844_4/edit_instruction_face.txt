@@ -1,0 +1,1 @@
+Change the head pose to look straight ahead with the mouth closed.
