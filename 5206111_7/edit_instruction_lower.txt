@@ -1,0 +1,1 @@
+Uncross the legs in image A so they are side-by-side as in image B.
