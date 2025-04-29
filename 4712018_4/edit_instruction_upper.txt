@@ -1,0 +1,1 @@
+Maintain the current upper body pose, including arm position, hand gestures, and torso orientation, as it is already identical to the target image.
