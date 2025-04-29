@@ -1,0 +1,1 @@
+Adjust the person's pose by changing face to upright smile, moving left hand to chest and right hand down/out, and changing leg pose to crossed and bent.

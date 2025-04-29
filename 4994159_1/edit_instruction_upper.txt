@@ -1,0 +1,1 @@
+Adjust the arm and hand pose to match the second image, specifically moving the left hand to the chest and the right hand downwards and outwards.
