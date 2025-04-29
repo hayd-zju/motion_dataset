@@ -1,0 +1,1 @@
+Slightly increase the bend in the right elbow of the person in Image A to match the angle in Image B.
