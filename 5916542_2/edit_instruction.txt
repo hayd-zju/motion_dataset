@@ -1,0 +1,1 @@
+Change the climber's pose to show the body rotated left, the right arm reaching up, the left arm extended downwards, and the legs positioned differently on the wall.
