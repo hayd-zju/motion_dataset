@@ -1,0 +1,1 @@
+Change head pose and gaze to look up and to the left towards the refrigerator, and adjust hands to hold the ice cream container with both hands.
