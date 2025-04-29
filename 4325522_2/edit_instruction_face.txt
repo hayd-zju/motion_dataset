@@ -1,0 +1,1 @@
+Slightly raise the head in Face A to match the vertical position in Face B.
