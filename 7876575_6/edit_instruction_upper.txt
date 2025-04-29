@@ -1,0 +1,1 @@
+Adjust the pose of the right arm and hand to match the second image, making the arm slightly straighter and repositioning the hand higher and more forward.
