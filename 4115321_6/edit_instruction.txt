@@ -1,0 +1,1 @@
+Change arm pose to resting in front and add object in right hand.
