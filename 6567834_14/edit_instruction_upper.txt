@@ -1,0 +1,1 @@
+Slightly rotate the torso pose clockwise to match the second image.

@@ -1,0 +1,1 @@
+Change the facial expression from open mouth to closed mouth.
