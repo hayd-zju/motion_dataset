@@ -1,0 +1,1 @@
+Adjust pose to be upright looking upwards, reposition hands, and add face markings.
