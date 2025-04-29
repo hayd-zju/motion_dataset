@@ -1,0 +1,1 @@
+Adjust the arm position and slightly rotate the torso of the person in Image A to match the pose in Image B.
