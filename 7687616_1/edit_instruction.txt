@@ -1,0 +1,1 @@
+Transform the person's pose and expression to match the active speaking and gesturing state shown in Image B.

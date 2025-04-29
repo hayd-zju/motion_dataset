@@ -1,0 +1,1 @@
+Change the person's arm and hand pose to match Image B, with the left arm raised and the right arm extended sideways, both hands open.
