@@ -1,0 +1,1 @@
+Change the person's pose by turning the head to face right, extending the left arm outwards and downwards and bending the right arm inwards near the torso, opening both hands, and slightly adjusting the left leg.

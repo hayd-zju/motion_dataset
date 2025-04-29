@@ -1,0 +1,1 @@
+Slightly straighten or rotate the left leg in Image A to match the pose in Image B.

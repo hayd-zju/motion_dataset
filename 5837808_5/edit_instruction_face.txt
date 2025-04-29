@@ -1,0 +1,1 @@
+Turn the person's head from facing left to facing right.
