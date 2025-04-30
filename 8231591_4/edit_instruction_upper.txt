@@ -1,0 +1,1 @@
+Adjust the person's overall pose in image A to match image B, ensuring the lower body connected to the torso is fully visible and positioned as shown in image B.
