@@ -1,0 +1,1 @@
+Shift the person's head orientation and gaze from looking left to looking right while keeping the writing pose.
