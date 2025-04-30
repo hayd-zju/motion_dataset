@@ -1,0 +1,1 @@
+Change head pose to look forward, open eyes, add a slight smile, and add a mask on the forehead.
