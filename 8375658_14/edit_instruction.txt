@@ -1,0 +1,1 @@
+Adjust the person's head, torso, and lower body pose to match Image B, involving head turn, torso rotation, and leg position change.

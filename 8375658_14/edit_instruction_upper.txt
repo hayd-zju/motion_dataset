@@ -1,0 +1,1 @@
+Rotate the person's torso slightly to their right to match the pose in Image B.
