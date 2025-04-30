@@ -1,0 +1,1 @@
+Change the leg pose from the first image to match the pose in the second image.
