@@ -1,0 +1,1 @@
+Slightly rotate the head towards the camera and straighten the legs.

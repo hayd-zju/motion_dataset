@@ -1,0 +1,1 @@
+Rotate the head slightly towards the camera to match the pose in the second image.
