@@ -1,0 +1,1 @@
+Make the head orientation more upright to match image B.

@@ -1,0 +1,1 @@
+Make the head orientation more upright, lower the left arm, and adjust the torso orientation to be straighter.
