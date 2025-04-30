@@ -1,0 +1,1 @@
+Transform the pose from holding the microphone with the left hand near the stand and mouth open, to extending the left arm outwards with an open hand and mouth closed.
