@@ -1,0 +1,1 @@
+Change the object held in the person's hands from a rectangular card to a small, thin object like a needle or pin, adjusting the hand grip accordingly.
