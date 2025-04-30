@@ -1,0 +1,1 @@
+Transform the pose to a low crouch with arms extended horizontally outwards and adjust head and torso orientation.

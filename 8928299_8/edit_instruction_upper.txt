@@ -1,0 +1,1 @@
+Change the arm position from bent and forward to extended horizontally outwards, and adjust the torso orientation to be horizontal.
