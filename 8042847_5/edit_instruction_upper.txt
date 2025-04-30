@@ -1,0 +1,1 @@
+Change the gesture of the raised left hand from open with extended fingers to open with curled fingers.
