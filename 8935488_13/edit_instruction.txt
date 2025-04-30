@@ -1,0 +1,1 @@
+Change head pose to look up, reposition right arm upwards and left arm sideways, adjust torso rotation, and modify lower body pose for dynamic movement with flared skirt.

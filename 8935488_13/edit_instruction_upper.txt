@@ -1,0 +1,1 @@
+Change the upper body pose to match the second image, specifically repositioning the right arm and adjusting the left arm and torso rotation.
