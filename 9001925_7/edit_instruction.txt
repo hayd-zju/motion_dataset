@@ -1,0 +1,1 @@
+Transform pose to arms lowered in front, torso leaned forward, with open eyes looking right.
