@@ -1,0 +1,1 @@
+Adjust the body pose including face orientation, arm positions, torso rotation, and leg position to match the second image.
