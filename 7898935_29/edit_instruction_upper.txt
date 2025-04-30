@@ -1,0 +1,1 @@
+Adjust the arm and hand positions in image A to match the pose in image B, specifically raising and bending both arms symmetrically with forearms vertical and hands clenched into fists near the shoulders.
