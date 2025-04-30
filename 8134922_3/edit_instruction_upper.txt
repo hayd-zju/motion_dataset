@@ -1,0 +1,1 @@
+Move the person's right arm closer to their body to match the pose in the second image.
