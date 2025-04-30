@@ -1,0 +1,1 @@
+Transform the pose to one with arms raised outwards and torso rotated to the right.
