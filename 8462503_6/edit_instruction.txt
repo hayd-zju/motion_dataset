@@ -1,0 +1,1 @@
+Change the face pose and gaze downwards, rotate the torso left, and move the left arm to be bent in front of the body.
