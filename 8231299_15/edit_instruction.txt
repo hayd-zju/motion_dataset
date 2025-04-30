@@ -1,0 +1,1 @@
+Slightly adjust the left arm and right leg position to match the target pose.
