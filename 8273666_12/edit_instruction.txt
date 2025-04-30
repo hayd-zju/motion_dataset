@@ -1,0 +1,1 @@
+Rotate the person to face away from the camera and change their right arm pose so the hand is on the back of their head.
