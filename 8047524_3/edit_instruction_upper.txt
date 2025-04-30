@@ -1,0 +1,1 @@
+Adjust the right arm and hand pose to match the second image, changing the hand from a pointing gesture to an open, cupped shape and slightly raising the arm.
