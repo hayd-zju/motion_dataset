@@ -1,0 +1,1 @@
+Change the head pose from looking up with eyes open to looking downwards with eyes closed.
