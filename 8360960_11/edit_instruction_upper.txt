@@ -1,0 +1,1 @@
+Raise and move the left arm and hand forward to match the position in the second image.
