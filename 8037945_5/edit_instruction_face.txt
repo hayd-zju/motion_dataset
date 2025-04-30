@@ -1,0 +1,1 @@
+Maintain the current head pose, gaze, and facial expression.
