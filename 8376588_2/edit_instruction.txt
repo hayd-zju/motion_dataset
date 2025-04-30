@@ -1,0 +1,1 @@
+Transform the pose from a standing shrug to a crouching, forward-leaning, right-rotated stance with the left arm extended and the head turned to the left profile.
