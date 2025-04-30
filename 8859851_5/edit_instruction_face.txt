@@ -1,0 +1,1 @@
+Adjust head pose, gaze direction, and close the mouth to match Face B.
