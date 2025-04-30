@@ -1,0 +1,1 @@
+Rotate the head slightly to the right and adjust the tilt to match the orientation in the second image.
