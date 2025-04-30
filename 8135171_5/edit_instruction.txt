@@ -1,0 +1,1 @@
+Change the person's arm pose from raised and extended to lowered, and adjust the head orientation and gaze.
