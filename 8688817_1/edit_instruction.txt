@@ -1,0 +1,1 @@
+Transform the pose by moving the right leg forward and bending the knee, rotating the torso slightly left, bringing the left arm across the body, swinging the right arm back, and tilting the head up with an open mouth.
