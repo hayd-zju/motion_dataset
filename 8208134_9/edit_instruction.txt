@@ -1,0 +1,1 @@
+Change the object held and reposition the arms and hands.
