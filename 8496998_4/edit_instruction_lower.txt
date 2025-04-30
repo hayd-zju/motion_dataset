@@ -1,0 +1,1 @@
+Modify the leg pose in image A to straighten the left leg and obscure or move the right leg behind it, matching the stance shown in image B.
