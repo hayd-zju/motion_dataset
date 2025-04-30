@@ -1,0 +1,1 @@
+Change the person's right arm and hand in the first image to be raised and slightly open, matching the pose in the second image.
