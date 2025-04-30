@@ -1,0 +1,1 @@
+Change the pose of the left arm and hand to rest on the document, matching the pose in Image B.
