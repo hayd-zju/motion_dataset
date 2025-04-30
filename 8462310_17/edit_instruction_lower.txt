@@ -1,0 +1,1 @@
+Change the lower body pose from lying down with extended legs to a kneeling position with bent legs.
