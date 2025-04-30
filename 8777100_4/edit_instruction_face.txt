@@ -1,0 +1,1 @@
+Slightly adjust the head orientation to be less tilted forward, matching the pose in the second image.

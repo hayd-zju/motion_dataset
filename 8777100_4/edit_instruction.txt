@@ -1,0 +1,1 @@
+Adjust the head orientation slightly to be less tilted forward.
