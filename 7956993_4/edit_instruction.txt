@@ -1,0 +1,1 @@
+Slightly adjust head and torso angle towards the camera.
