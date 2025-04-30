@@ -1,0 +1,1 @@
+Rotate and tilt the lower body to match the angle and orientation shown in image B.

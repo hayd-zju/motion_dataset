@@ -1,0 +1,1 @@
+Change the arm pose to have both arms crossed in front of the chest and adjust the lower body orientation.
