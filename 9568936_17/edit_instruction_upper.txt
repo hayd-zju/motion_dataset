@@ -1,0 +1,1 @@
+Adjust the arm positions and hand gestures to match the pose in Image B, specifically raising the left arm with the index finger pointing upwards and extending the right arm forward with an open hand.
