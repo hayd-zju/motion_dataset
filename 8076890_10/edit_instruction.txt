@@ -1,0 +1,1 @@
+Rotate the person 180 degrees to face away from the viewer and raise their arms as if spraying.
