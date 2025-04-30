@@ -1,0 +1,1 @@
+Change the pose from a walking motion to a standing position with bent knees and feet planted.
