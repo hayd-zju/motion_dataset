@@ -1,0 +1,1 @@
+Change the head pose to a left profile view, adjust the gaze to look left, and change the facial expression to neutral.

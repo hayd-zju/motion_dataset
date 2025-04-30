@@ -1,0 +1,1 @@
+Transform the person's pose to have a narrower stance with arms raised above the head, and change the head pose to left profile with neutral expression.
