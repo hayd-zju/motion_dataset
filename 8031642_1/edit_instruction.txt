@@ -1,0 +1,1 @@
+Change head pose and gaze, change hand gesture to gripping collar, and adjust leg position.
