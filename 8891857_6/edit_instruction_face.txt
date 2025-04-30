@@ -1,0 +1,1 @@
+Maintain the current head orientation, gaze direction, and facial expression as they are already similar to the target.
