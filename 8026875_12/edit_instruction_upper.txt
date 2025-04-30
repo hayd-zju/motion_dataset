@@ -1,0 +1,1 @@
+Change the person's pose from the push-up-like position in image A to the more upright, rotated pose with bent arms and gripping hand gesture shown in image B.
