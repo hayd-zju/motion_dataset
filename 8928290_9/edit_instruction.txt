@@ -1,0 +1,1 @@
+Shift the person's lean from left to right, change the arm pose from raised with open hands to raised with hands clasped behind the head, and turn the head to face forward.
