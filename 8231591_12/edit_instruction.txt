@@ -1,0 +1,1 @@
+Adjust pose to match the second image, including head tilt, torso rotation, right arm extension, hand gesture, and right leg position.
