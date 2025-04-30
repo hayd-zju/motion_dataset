@@ -1,0 +1,1 @@
+Maintain the current upper body pose, including torso lean, arm positions, and hand gestures, as the images are nearly identical.
