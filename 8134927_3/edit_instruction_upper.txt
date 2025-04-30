@@ -1,0 +1,1 @@
+Change the person's right arm pose so the hand is raised and making an 'OK' gesture, matching the second image.

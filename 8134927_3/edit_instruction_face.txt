@@ -1,0 +1,1 @@
+Change the facial expression from an open-mouthed laugh/reaction with squinted eyes and raised eyebrows to a closed-mouth grimace with furrowed eyes and eyebrows, and slightly adjust head orientation to face more forward.
