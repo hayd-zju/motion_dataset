@@ -1,0 +1,1 @@
+Adjust the angle of the object held in the right hand so the tip points slightly downwards.

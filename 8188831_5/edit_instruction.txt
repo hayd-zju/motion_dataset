@@ -1,0 +1,1 @@
+Transform the person to match the pose and appearance in Image B, including matching the face, adjusting the pen angle, and removing the lower body.
