@@ -1,0 +1,1 @@
+Transform the person from a dynamic, extended pose into a lower, more compact pose with arms drawn in and head tilted down.
