@@ -1,0 +1,1 @@
+Change the hand and arm pose from clasped horizontally to a vertical prayer pose.
