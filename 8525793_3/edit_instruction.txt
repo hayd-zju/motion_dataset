@@ -1,0 +1,1 @@
+Transform the person's face to be smiling and facing the camera, adjust the arm and hand position to be bent and closer to the body, and change the leg pose to a wider stance with the right leg extended and left leg bent, matching the pose in Image B.
