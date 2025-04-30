@@ -1,0 +1,1 @@
+Change the person's pose to be more upright and less leaning forward, with the right forearm directed upwards and the left forearm directed downwards, matching the pose in Image B.
