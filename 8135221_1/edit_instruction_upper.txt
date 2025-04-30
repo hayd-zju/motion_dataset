@@ -1,0 +1,1 @@
+Adjust the pose so the left arm is extended downwards and outwards and the right hand holds the object near the body.
