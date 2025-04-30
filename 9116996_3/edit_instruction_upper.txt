@@ -1,0 +1,1 @@
+Adjust the person's pose to match the second image, specifically the angle of the book and the posture of the torso and arms.
