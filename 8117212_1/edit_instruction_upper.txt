@@ -1,0 +1,1 @@
+Change the position of the left arm and hand to hold the furry object near the waist, matching the pose in the second image.
