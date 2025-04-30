@@ -1,0 +1,1 @@
+Transform the person in Image A to the pose and expression of Image B, including raising arms, smiling, and shifting weight onto the left leg.

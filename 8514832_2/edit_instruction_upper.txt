@@ -1,0 +1,1 @@
+Adjust the pose of the person in Image A so that the arms are raised higher and bent at the elbows, and the hands are brought closer together vertically in front of the torso, matching the pose in Image B.
