@@ -1,0 +1,1 @@
+Change the pose of the right hand and arm to match the pose in the second image, where the hand is a loose fist and lowered near the microphone.
