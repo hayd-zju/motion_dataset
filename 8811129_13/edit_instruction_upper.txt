@@ -1,0 +1,1 @@
+Change the arm and hand pose in image A to match the pose in image B, specifically extending the arms outwards and placing the right hand near the face and extending the left hand outwards.
