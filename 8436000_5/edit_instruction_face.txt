@@ -1,0 +1,1 @@
+Adjust the head orientation from Face A to match Face B by rotating it downwards and slightly towards the viewer.
