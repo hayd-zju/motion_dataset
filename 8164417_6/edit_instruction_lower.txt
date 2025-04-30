@@ -1,0 +1,1 @@
+Adjust the leg positions to match the pose in Image B by lowering the left knee and bending the right leg.
