@@ -1,0 +1,1 @@
+Change the arm pose from raised holding an object to lowered and relaxed at the sides.
