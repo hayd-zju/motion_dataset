@@ -1,0 +1,1 @@
+Slightly adjust the angle and position of the hands and fingers to match the pose in the second image.
