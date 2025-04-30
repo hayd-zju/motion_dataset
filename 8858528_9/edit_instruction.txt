@@ -1,0 +1,1 @@
+Adjust the pose to match Image B, including tilting the head up, closing the eyes, adjusting the overhead arms and hands, and swapping the lead leg to the left while shifting weight.

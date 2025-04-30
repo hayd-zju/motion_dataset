@@ -1,0 +1,1 @@
+Swap the lead leg from left to right and shift weight accordingly to match the second image's pose.

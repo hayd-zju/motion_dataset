@@ -1,0 +1,1 @@
+Adjust the overhead arm and hand pose to match the position in the target image B.
