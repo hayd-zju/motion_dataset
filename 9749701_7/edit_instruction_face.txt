@@ -1,0 +1,1 @@
+Adjust the head pose and gaze direction of the person in Face A to match the orientation and gaze of the person in Face B.
