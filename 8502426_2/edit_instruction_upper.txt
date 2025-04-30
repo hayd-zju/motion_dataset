@@ -1,0 +1,1 @@
+Adjust the person's pose in Image A to lower both arms and position them slightly forward, mirroring the pose in Image B.

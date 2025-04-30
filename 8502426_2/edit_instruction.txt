@@ -1,0 +1,1 @@
+Transform the person's pose from the stretching stance with bent leg and hands on hips/back in Image A to the relaxed standing pose with arms down and head facing forward in Image B.
