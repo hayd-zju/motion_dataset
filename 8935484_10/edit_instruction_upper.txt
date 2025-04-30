@@ -1,0 +1,1 @@
+Adjust the arm positions and torso orientation to match the pose in the second image.
