@@ -1,0 +1,1 @@
+Change the position of the subject's arms and hands to match the pose in Image B.
