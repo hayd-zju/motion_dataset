@@ -1,0 +1,1 @@
+Change the gaze direction to look slightly downwards.
