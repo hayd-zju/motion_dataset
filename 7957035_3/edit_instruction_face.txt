@@ -1,0 +1,1 @@
+Maintain the profile view, forward gaze, and neutral expression.
