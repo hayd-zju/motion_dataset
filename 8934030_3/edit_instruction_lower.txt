@@ -1,0 +1,1 @@
+Change the person's stance from the dynamic pose in A to the upright pose in B.

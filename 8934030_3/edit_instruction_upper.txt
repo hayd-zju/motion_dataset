@@ -1,0 +1,1 @@
+Make no changes to the pose, as the upper body pose in Image A already matches Image B.
