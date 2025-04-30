@@ -1,0 +1,1 @@
+Transform the kneeling lunge pose in Image A into a standing lunge pose like in Image B, adjusting the upper body, arms, and head.
