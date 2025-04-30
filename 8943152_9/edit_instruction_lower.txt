@@ -1,0 +1,1 @@
+Change the leg position from a stepping pose to a standing pose with both legs straight and side-by-side.

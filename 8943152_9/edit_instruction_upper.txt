@@ -1,0 +1,1 @@
+Change the pose of the person to match the pose in Upper Body B, specifically by rotating the torso slightly and repositioning the arms and hands to the side and front of the skirt respectively.
