@@ -1,0 +1,1 @@
+Transform the pose to a TRX row, show the full body including legs, and update the sports clothing.
