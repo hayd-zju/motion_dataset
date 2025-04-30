@@ -1,0 +1,1 @@
+Transform the pose from arms extended wide with clenched fists to arms raised and bent with hands covering the face, and rotate the torso.
