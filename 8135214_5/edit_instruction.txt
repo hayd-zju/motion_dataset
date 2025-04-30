@@ -1,0 +1,1 @@
+Transform the person's pose from a tense, upward-looking pose with clenched fists to a more relaxed, downward-looking pose with open, splayed hands and a slightly rotated torso.
