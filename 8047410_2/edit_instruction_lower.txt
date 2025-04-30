@@ -1,0 +1,1 @@
+Add the second lower leg and foot from image B to image A, positioning it below the existing leg.
