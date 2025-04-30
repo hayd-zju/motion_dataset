@@ -1,0 +1,1 @@
+Change the pose of the left arm and hand to match the second image, specifically extending the arm and changing the hand gesture to hold a small object.
