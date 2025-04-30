@@ -1,0 +1,1 @@
+No changes are needed as image A is already the same as image B.
