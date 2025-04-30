@@ -1,0 +1,1 @@
+Transform the person's pose to be slumped forward with head resting on the right hand and mouth slightly open.

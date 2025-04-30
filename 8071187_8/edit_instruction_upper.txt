@@ -1,0 +1,1 @@
+Adjust the person's pose in image A to rotate the torso left, tilt it back, extend the left arm horizontally, and bend the right arm inwards.

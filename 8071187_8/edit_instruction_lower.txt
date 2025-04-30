@@ -1,0 +1,1 @@
+Transform the lower body pose from a low crouch to a lower, seated position.
