@@ -1,0 +1,1 @@
+Transform the pose from a dynamic ground lean to an upright squat.
