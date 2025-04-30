@@ -1,0 +1,1 @@
+Adjust the torso orientation, lower the right arm to match the position in the second image, and slightly reposition the left arm and hand.
