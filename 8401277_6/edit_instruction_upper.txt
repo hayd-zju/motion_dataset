@@ -1,0 +1,1 @@
+Change the arm and hand pose to hold objects, matching the pose in the second image.
