@@ -1,0 +1,1 @@
+Adjust the position of the lower torso and the right arm to match the pose in the second image, specifically bringing the right arm forward and lower to hold the chain.
