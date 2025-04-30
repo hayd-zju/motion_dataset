@@ -1,0 +1,1 @@
+Adjust head orientation to tilt up and turn left, and change gaze direction to look up and left.
