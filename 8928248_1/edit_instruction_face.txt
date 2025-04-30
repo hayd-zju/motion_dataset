@@ -1,0 +1,1 @@
+Adjust the head pose from a right profile tilted upwards to a slightly more frontal view.
