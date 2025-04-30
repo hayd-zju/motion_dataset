@@ -1,0 +1,1 @@
+Change the arm and hand positions of the person to match the pose in the second image.

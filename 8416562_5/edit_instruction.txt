@@ -1,0 +1,1 @@
+Turn the face to the left and shift the gaze to the left, adjust the upper body's arm and hand positions, and remove the lower body by cropping.
