@@ -1,0 +1,1 @@
+Adjust the gaze downwards to look straight ahead.
