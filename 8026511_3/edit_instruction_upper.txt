@@ -1,0 +1,1 @@
+Adjust the pose to lean further forward, rotate the torso slightly, move the right arm backward and the left arm forward to match the pose in the second image.
