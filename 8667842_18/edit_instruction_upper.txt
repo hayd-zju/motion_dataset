@@ -1,0 +1,1 @@
+Change the person's pose from holding the object to having the left hand open and palm up, and the right hand extended towards it with slightly cupped fingers, removing the object.
