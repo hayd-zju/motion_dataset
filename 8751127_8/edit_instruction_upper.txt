@@ -1,0 +1,1 @@
+Keep the pose as is, as Image A matches Image B.
