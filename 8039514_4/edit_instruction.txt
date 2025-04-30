@@ -1,0 +1,1 @@
+Change the pose by turning the head more to the right with a gaze shift, lowering the left arm, adjusting the right hand position downwards, and crossing the legs.
