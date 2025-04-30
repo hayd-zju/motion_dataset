@@ -1,0 +1,1 @@
+Change the pose from resting/sleepy with closed eyes to alert/focused with open eyes looking down and left, lifting the head slightly and adjusting arm postures.
