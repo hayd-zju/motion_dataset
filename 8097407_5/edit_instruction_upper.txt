@@ -1,0 +1,1 @@
+Change the person's pose so the torso is bent forward and both arms are extended downwards with hands flat on the ground.
