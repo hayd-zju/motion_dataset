@@ -1,0 +1,1 @@
+Adjust head rotation and gaze towards the viewer, and move the left hand to rest on the left thigh.

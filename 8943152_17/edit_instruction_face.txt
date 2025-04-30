@@ -1,0 +1,1 @@
+Rotate head slightly left and adjust gaze towards the viewer.
