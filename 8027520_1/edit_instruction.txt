@@ -1,0 +1,1 @@
+Change pose to looking right with lowered arms.
