@@ -1,0 +1,1 @@
+Change the pose of the person in image A to match the pose in image B.

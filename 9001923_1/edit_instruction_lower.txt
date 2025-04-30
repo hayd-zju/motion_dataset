@@ -1,0 +1,1 @@
+Adjust the leg positions to match the pose in image B, straightening the front leg and lifting the heel, while adjusting the back leg.
