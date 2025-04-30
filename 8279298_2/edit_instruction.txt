@@ -1,0 +1,1 @@
+Tilt the head and direct the gaze downwards, and adjust the arm and hand position to match the target pose.
