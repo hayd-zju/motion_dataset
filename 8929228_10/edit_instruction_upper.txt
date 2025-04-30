@@ -1,0 +1,1 @@
+Change the pose of the right arm from extended forward to bent and lowered, and adjust the left arm position and torso orientation to match Image B.
