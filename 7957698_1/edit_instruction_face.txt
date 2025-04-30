@@ -1,0 +1,1 @@
+Adjust the head pose to be more upright and facing forward, with the gaze directed towards the camera.
