@@ -1,0 +1,1 @@
+Transform the sitting pose into a standing pose with straight legs.
