@@ -1,0 +1,1 @@
+Transform the pose by tilting the head downwards and closing the mouth, adjusting the torso orientation, and modifying the bend of the legs to match Image B.
