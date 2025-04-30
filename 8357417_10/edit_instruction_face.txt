@@ -1,0 +1,1 @@
+Adjust head pose to be less tilted downwards and slightly turned to the right.
