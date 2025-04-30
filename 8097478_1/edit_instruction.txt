@@ -1,0 +1,1 @@
+Transform the pose by tilting the head upwards, extending the left arm forward and up, bending the right arm down, and crossing the bent legs.
