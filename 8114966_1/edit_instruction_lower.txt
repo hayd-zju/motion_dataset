@@ -1,0 +1,1 @@
+Edit the pose so the left leg is forward and bent, and the right leg is extended back, mirroring the original pose.
