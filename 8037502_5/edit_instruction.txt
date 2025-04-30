@@ -1,0 +1,1 @@
+Adjust the pose by rotating the torso to show the back, lowering the left arm, raising the right arm towards the head, tilting the head forward and downward, and shifting the right leg slightly forward.

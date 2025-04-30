@@ -1,0 +1,1 @@
+Rotate the person's torso to show their back, lower the left arm, and raise the right arm towards their head to match the pose in Image B.
