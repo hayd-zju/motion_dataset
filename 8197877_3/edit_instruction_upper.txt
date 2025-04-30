@@ -1,0 +1,1 @@
+Change the right arm and hand pose from pointing to open and lowered.
