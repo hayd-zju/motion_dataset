@@ -1,0 +1,1 @@
+Modify the arm cross position to match Image B.
