@@ -1,0 +1,1 @@
+Change the person's pose from walking to standing, adjust head pose to look up and left, and modify facial expression.
