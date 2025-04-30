@@ -1,0 +1,1 @@
+Shift gaze towards the camera and adjust the pose of the hands holding the utensil.
