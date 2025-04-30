@@ -1,0 +1,1 @@
+Change stage lighting to red and blue and add haze effect.
