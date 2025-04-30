@@ -1,0 +1,1 @@
+Change the person's pose from standing with arms raised to a walking pose.
